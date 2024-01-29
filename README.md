@@ -14,4 +14,4 @@ Após a seleção, o sistema deve pedir para o usuário inserir o primeiro e seg
 
 É necessário que o sistema mostre as opções sempre que finalizar uma operação e mostrar o resultado. 
 
-Desafio proposto pelo curso Proz - Talento Cloud, módulo de Introdução a Programação
+**Desafio proposto pelo curso Proz - Talento Cloud, módulo de Introdução a Programação**
